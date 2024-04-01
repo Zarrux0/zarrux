@@ -1,0 +1,14 @@
+.container{
+    width: 900px;
+    height: 500px;
+    background-color: rgb(121, 121, 121);
+    display: grid;
+    gap: 10px ;
+    grid-template-columns: auto auto auto;
+}
+.box{
+    width: 250px;
+    height: 100px;
+    background-color: beige;
+    margin: 20px ;
+}
